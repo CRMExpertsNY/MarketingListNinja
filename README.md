@@ -36,4 +36,4 @@ Benefits
 
 For More Information
 ============
-For more information, [visit our website](https://crmexpertsny.com/product/timesheet-ninja-monthly/).
+For more information, [visit our website](https://crmexpertsny.com/product/marketing-list-ninja/).
