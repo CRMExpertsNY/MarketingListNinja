@@ -24,11 +24,11 @@ Benefits
 - Quickly determine if they can be added to another marketing list by seeing what they are already subscribed to.
 - Improve your targeting and messaging as you up-sell and cross sell.
 
-Quickly View Marketing Lists within a Contact Record
+**Quickly View Marketing Lists within a Contact Record**
 
 ![hereliespicture1](https://i.imgur.com/FFqK4ze.png)
 
-Quickly add a Contact to a Marketing List
+**Quickly add a Contact to a Marketing List**
 
 ![lets-a-go](https://i.imgur.com/GecF46K.png)
 
